@@ -11,4 +11,15 @@
 .cards{
     display: flex;
     justify-content: space-between;
+    
+}
+
+.card-content{
+    transform: translateY(-21px);
+    background: #FFF;
+    width: 300px;
+    border-radius:8px;
+    padding: 317px;
+
+
 }
